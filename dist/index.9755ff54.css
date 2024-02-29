@@ -1,0 +1,201 @@
+@import "https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap";
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+html {
+  font-size: 100%;
+}
+
+.main__button--el {
+  color: #fff;
+  text-transform: uppercase;
+  background: #ff4343;
+  border: none;
+  outline: none;
+  width: 23.125rem;
+  height: 5rem;
+  margin: 5.125rem auto;
+  font-size: 1.5em;
+  font-weight: 900;
+}
+
+.tabs__up--el {
+  text-align: center;
+}
+
+.tabs__up--el .tabs__title {
+  padding: 1.5625rem 0;
+  font-family: Raleway, sans-serif;
+  font-size: 1.5em;
+  font-weight: 900;
+}
+
+.tabs__up--el .tabs__subtitle {
+  color: #6c7279;
+  font-family: Raleway, sans-serif;
+  font-size: 1.125em;
+  font-weight: normal;
+}
+
+.container {
+  max-width: 75rem;
+  margin: 1.875rem auto;
+  padding: 0 .9375rem;
+}
+
+.header__a--nav {
+  color: #fff;
+  text-transform: uppercase;
+  font-family: Raleway, sans-serif;
+  font-weight: 700;
+}
+
+header {
+  z-index: 2;
+  background-color: #0000;
+  width: 100%;
+  position: absolute;
+}
+
+.header__inner {
+  max-width: 75rem;
+  margin: 0 auto;
+  padding: 0 .9375rem;
+  display: flex;
+}
+
+.header:after {
+  content: "";
+  background-color: #babbc5;
+  max-width: 73.125rem;
+  height: 1px;
+  margin: .15rem auto;
+  display: block;
+}
+
+.header__img {
+  padding: 20px 0;
+}
+
+.header__img:hover {
+  cursor: pointer;
+}
+
+.header__logo {
+  margin-right: auto;
+}
+
+.header__nav {
+  display: flex;
+}
+
+.header__nav--nav {
+  align-items: center;
+  display: flex;
+}
+
+.header__li {
+  padding: 1.5rem;
+  position: relative;
+}
+
+.header__li:before, .header__li:after {
+  content: "";
+  background: #babbc5;
+  height: 3px;
+  transition: transform .3s;
+  position: absolute;
+  left: 0;
+  right: 0;
+  transform: scaleX(0);
+}
+
+.header__li:before {
+  top: 0;
+}
+
+.header__li:after {
+  bottom: 0;
+}
+
+.header__li:nth-child:before {
+  left: 0;
+}
+
+.header__li:nth-child:after {
+  right: 0;
+}
+
+.header__li:hover:before, .header__li:hover:after {
+  transform: scaleX(1);
+}
+
+.header__li:hover:nth-child:before {
+  transform: scaleY(1);
+}
+
+.header__li:hover:nth-child:after {
+  transform: scaleY(1);
+}
+
+.main {
+  z-index: 1;
+  background-color: #0000;
+  background-image: linear-gradient(#252b49cc, #252b49a6), url("background.3a44c0e1.jpeg");
+  background-position: 0 0, 0 0;
+  background-repeat: repeat, no-repeat;
+  background-size: cover;
+  background-attachment: scroll, scroll;
+  background-origin: padding-box, padding-box;
+  background-clip: border-box, border-box;
+  height: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.main #MC {
+  margin: 0 auto;
+}
+
+.main h1 {
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  padding-top: 14.375rem;
+  font-family: Raleway, sans-serif;
+  font-size: 4em;
+  font-weight: 900;
+}
+
+.main h3 {
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  margin-top: 1.9375rem;
+  font-family: Raleway, sans-serif;
+  font-size: 1.5em;
+  font-weight: normal;
+}
+
+.main .main__button {
+  width: 100%;
+  display: flex;
+}
+
+.tabs__up, .tabs__down {
+  gap: 30px;
+  max-width: 100%;
+  display: flex;
+}
+
+.tabs__down {
+  margin-top: 5.46875rem;
+}
+
+/*# sourceMappingURL=index.9755ff54.css.map */

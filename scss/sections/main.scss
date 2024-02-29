@@ -1,0 +1,38 @@
+.main {
+  background: linear-gradient(rgba(37, 43, 73, 0.8), rgba(37, 43, 73, 0.65)), url("../src/img/main/background.jpeg") no-repeat;
+  background-size: cover;
+  height: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+  z-index: 1;
+
+  #MC{
+    margin: 0 auto;
+  }
+
+  h1 {
+    width: 100%;
+    font-family: $main-font;
+    color: $font-color-white;
+    font-size: 4em;
+    text-align: center;
+    padding-top: 14.375rem;
+    font-weight: 900;
+  }
+  h3 {
+    font-family: $main-font;
+    color: $font-color-white;
+    width: 100%;
+    font-size: 1.5em;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 1.9375rem;
+  }
+  .main__button{
+    width: 100%;
+    display: flex;
+  }
+}
+
+

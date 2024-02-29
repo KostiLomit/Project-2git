@@ -1,0 +1,84 @@
+.header__a--nav {
+  font-family: $main-font;
+  color: white;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+header{
+  width: 100%;
+  background-color: transparent;
+  position: absolute;
+  z-index: 2;
+}
+.header__inner{
+  max-width: 75rem;
+  padding: 0 0.9375rem 0 0.9375rem;
+  display: flex;
+  margin: 0 auto;
+}
+.header::after {
+  content: "";
+  display: block;
+  max-width: 73.125rem;
+  height: 1px;
+  background-color: #BABBC5;
+  margin: 0.15rem auto;
+}
+.header__img{
+  padding: 20px 0;
+}
+.header__img:hover{
+  cursor: pointer;
+}
+.header__logo {
+  margin-right: auto;
+}
+.header__nav {
+  display: flex;
+}
+.header__nav--nav{
+  display: flex;
+  align-items: center;
+}
+.header__li{
+  padding: 1.5rem;
+  position: relative;
+
+  // Добавляем псевдоэлементы для верхней и нижней границ
+  &::before, &::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #BABBC5;
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+  }
+
+  &::before { top: 0; }
+  &::after { bottom: 0; }
+
+  //// Добавляем псевдоэлементы для левой и правой границ
+  //&:nth-child::before, &:nth-child::after {
+  //  content: '';
+  //  position: absolute;
+  //  top: 0;
+  //  bottom: 0;
+  //  width: 2px;
+  //  background: #333;
+  //  transform: scaleY(0);
+  //  transition: transform 0.3s ease 0.3s; // Добавляем задержку для синхронизации с верхней и нижней границами
+  //}
+
+  &:nth-child::before { left: 0; }
+  &:nth-child::after { right: 0; }
+
+  // Анимация появления границ при наведении
+  &:hover {
+    &::before, &::after { transform: scaleX(1); }
+    &:nth-child::before, &:nth-child::after { transform: scaleY(1); }
+  }
+}
+
+

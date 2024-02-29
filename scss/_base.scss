@@ -1,0 +1,17 @@
+/* CONTAINS ALL STYLE, VARIABLES, MIXIN, SERVICE CLASSES */
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+html {
+  font-size: 100%;
+}
+
+$main-font: Raleway, sans-serif;
+$font-color-gray: #6C7279;
+$font-color-white: #FFF;
+$font-color-red: #FF4343;
+

@@ -14,18 +14,31 @@ html {
 .main__button--el {
   color: #fff;
   text-transform: uppercase;
+  cursor: pointer;
   background: #ff4343;
   border: none;
   outline: none;
   width: 23.125rem;
   height: 5rem;
-  margin: 5.125rem auto;
+  margin: 0 auto 120px;
   font-size: 1.5em;
   font-weight: 900;
+  transition: all .3s;
+}
+
+.main__button--el:hover {
+  background: #e71414;
+}
+
+.main__button--el:active {
+  background: #ff4343;
+  transition: all .1s;
+  box-shadow: 4px 4px 30px #ff4343;
 }
 
 .tabs__up--el {
   text-align: center;
+  width: calc(100% - .125rem);
 }
 
 .tabs__up--el .tabs__title {
@@ -40,6 +53,151 @@ html {
   font-family: Raleway, sans-serif;
   font-size: 1.125em;
   font-weight: normal;
+}
+
+.card-img__el {
+  width: 25%;
+  height: 21.25rem;
+  position: relative;
+}
+
+.card-img__img {
+  width: 100%;
+  height: 100%;
+}
+
+.card-img__img img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.card-img__content {
+  opacity: 0;
+  cursor: pointer;
+  background: #ff4343cc;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  transition: all .3s;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.card-img__content:hover {
+  opacity: 1;
+}
+
+.card-img__content:active {
+  opacity: 1;
+  background: #b90c0ccc;
+}
+
+.card-img__content h4 {
+  color: #fff;
+  margin-bottom: 1.28125rem;
+  font-family: Raleway, sans-serif;
+  font-size: 1.5em;
+  font-weight: 900;
+}
+
+.card-img__content p {
+  color: #fff;
+  font-family: Raleway, sans-serif;
+  font-size: 1em;
+}
+
+.people-cards__el {
+  flex-direction: column;
+  width: calc(100% - 7.5rem);
+  display: flex;
+}
+
+.people-cards__el-img {
+  width: 100%;
+  height: 100%;
+}
+
+.people-cards-el-content {
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+p.card-title {
+  text-align: left;
+  padding-top: 1.875rem;
+  padding-bottom: .3125rem;
+  font-family: Raleway, sans-serif;
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+p.card-subtitle {
+  color: #ff4343;
+  text-transform: uppercase;
+  text-align: left;
+  padding-bottom: 1.1125rem;
+  font-family: Raleway, sans-serif;
+  font-size: 1.125em;
+}
+
+p.parraf {
+  color: #6c7279;
+  text-align: left;
+  padding-bottom: 2.3625rem;
+  font-family: Raleway, sans-serif;
+  font-size: 1.125em;
+}
+
+.people-cards__icons {
+  color: #c6cbcd;
+  justify-content: flex-start;
+  gap: .3125rem;
+  display: flex;
+}
+
+.people-cards__icons svg:hover {
+  cursor: pointer;
+  fill: #ff4343;
+  transition: all .3s;
+  transform: scale(2);
+}
+
+.people-cards__icons svg:active {
+  cursor: pointer;
+  fill: #a90d0d;
+  outline: none;
+  transition: all .3s;
+  transform: scale(1.8);
+}
+
+.ready-content {
+  text-align: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.ready-content h3 {
+  padding-bottom: .34375rem;
+  font-family: Raleway, sans-serif;
+  font-size: 1.875em;
+  font-weight: 700;
+}
+
+.ready-content p {
+  padding-bottom: 2.9375rem;
+  font-family: Raleway, sans-serif;
+  font-size: 1.12em;
+  font-weight: 500;
 }
 
 .container {
@@ -178,6 +336,7 @@ header {
   text-align: center;
   width: 100%;
   margin-top: 1.9375rem;
+  padding-bottom: 5rem;
   font-family: Raleway, sans-serif;
   font-size: 1.5em;
   font-weight: normal;
@@ -196,6 +355,121 @@ header {
 
 .tabs__down {
   margin-top: 5.46875rem;
+}
+
+.card-img {
+  text-align: center;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.people-cards {
+  text-align: center;
+  flex-direction: row;
+  justify-content: center;
+  gap: 1.875rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.footer {
+  background: #353c65;
+}
+
+.footer-content {
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
+  margin-bottom: 4.1875rem;
+  display: flex;
+}
+
+.footer .location {
+  text-align: center;
+  flex-direction: column;
+  max-width: 33.3333%;
+  margin-top: 4.375rem;
+  display: flex;
+}
+
+.footer .location-title {
+  color: #fff;
+  text-transform: uppercase;
+  padding-bottom: 1.8125rem;
+  font-family: Raleway, sans-serif;
+  font-size: 1.125em;
+  font-weight: 700;
+}
+
+.footer .location-subtitle {
+  color: #fff;
+  font-family: Raleway, sans-serif;
+  font-size: 1.125em;
+}
+
+.footer .share {
+  text-align: center;
+  flex-direction: column;
+  max-width: 33.3333%;
+  margin-top: 4.375rem;
+  display: flex;
+}
+
+.footer .share-title {
+  color: #fff;
+  text-transform: uppercase;
+  padding-bottom: 3rem;
+  font-family: Raleway, sans-serif;
+  font-size: 1.125em;
+  font-weight: 700;
+}
+
+.footer .share-icons svg:hover {
+  fill: #ff4343;
+  cursor: pointer;
+}
+
+.footer .about {
+  text-align: center;
+  flex-direction: column;
+  max-width: 33.3333%;
+  margin-top: 4.375rem;
+  display: flex;
+}
+
+.footer .about-title {
+  color: #fff;
+  text-transform: uppercase;
+  padding-bottom: 1.8125rem;
+  font-family: Raleway, sans-serif;
+  font-size: 1.125em;
+  font-weight: 700;
+}
+
+.footer .about-subtitle {
+  color: #fff;
+  font-family: Raleway, sans-serif;
+  font-size: 1.125em;
+}
+
+.footer-copyright {
+  color: gray;
+  background: #2c3154;
+  justify-content: center;
+  height: 100%;
+  font-family: Raleway, sans-serif;
+  font-size: 1.125rem;
+  display: flex;
+}
+
+.footer-copyright p {
+  max-width: 23.125rem;
+  padding: 1.4375rem 0;
+}
+
+.footer-copyright span {
+  color: #fff;
 }
 
 /*# sourceMappingURL=index.9755ff54.css.map */

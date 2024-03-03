@@ -1,4 +1,5 @@
 /* EVERYTHING THAT WILL BE REUSED - BUTTONS, NAVIGATION, BARS, CARDS */
+/*MAIN SECTION*/
 .main__button--el {
   width: 23.125rem;
   height: 5rem;
@@ -9,11 +10,26 @@
   background: #FF4343;
   outline: none;
   border: none;
-  margin: 5.125rem auto;
+  margin: 0 auto;
+  transition: .3s;
+  cursor: pointer;
+  margin-bottom: 120px;
 }
+.main__button--el:hover{
+  background: #E71414;
+
+}
+.main__button--el:active{
+  background: #FF4343;
+  box-shadow: 4px 4px 30px 0px #FF4343;
+  transition: 0.1s;
+}
+
+/*TABS SECTION*/
 
 .tabs__up--el {
   text-align: center;
+  width: calc(100% - 0.125rem);
     .tabs__title {
       padding: 1.5625rem 0 1.5625rem 0;
       font-family: $main-font;
@@ -27,4 +43,147 @@
         color: $font-color-gray;
       }
 
+}
+
+/*CARD SECTION*/
+
+.card-img__el{
+  height: 21.25rem;
+  width: calc(100% / 4);
+  position: relative;
+}
+
+.card-img__img{
+  width: 100%;
+  height: 100%;
+}
+
+.card-img__img img{
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-img__content {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  top: 0;
+  left: 0;
+  background: rgba(255, 67, 67, 0.80);
+  opacity: 0;
+  transition: .3s;
+  cursor: pointer;
+}
+
+.card-img__content:hover {
+  opacity: 1;
+}
+.card-img__content:active {
+  background: rgba(185, 12, 12, 0.80);
+  opacity: 1;
+}
+
+.card-img__content h4 {
+  font-size: 1.5em;
+  font-family: $main-font;
+  color: $font-color-white;
+  font-weight: 900;
+  margin-bottom: 1.28125rem;
+}
+
+.card-img__content p{
+  font-size: 1em;
+  font-family: $main-font;
+  color: $font-color-white;
+}
+/*PEOPLE-CARD*/
+
+.people-cards__el {
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 7.5rem );
+}
+.people-cards__el-img {
+  width: 100%;
+  height: 100%;
+}
+.people-cards-el-content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+ p.card-title {
+   font-family: $main-font;
+   font-weight: 700;
+   font-size: 1.5em;
+   text-align: left;
+   padding-top: 1.875rem;
+   padding-bottom: 0.3125rem;
+}
+ p.card-subtitle {
+   font-family: $main-font;
+   font-size: 1.125em;
+   color: #FF4343;
+   text-transform: uppercase;
+   text-align: left;
+   padding-bottom: 1.1125rem;
+}
+ p.parraf {
+  color: #6C7279;
+  font-family: $main-font;
+  font-size: 1.125em;
+  text-align: left;
+   padding-bottom: 2.3625rem;
+}
+.people-cards__icons {
+  display: flex;
+  gap: 0.3125rem;
+  justify-content: flex-start;
+  color: #C6CBCD;
+}
+
+.people-cards__icons svg:hover {
+  cursor: pointer;
+  transform: scale(2);
+  fill: #ff4343;
+
+  transition: .3s;
+}
+.people-cards__icons svg:active {
+  cursor: pointer;
+  transform: scale(1.8);
+  fill: #a90d0d;
+  transition: .3s;
+  outline: none;
+}
+
+/*READY TOB START*/
+
+.ready-content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+
+}
+.ready-content h3 {
+  font-family: $main-font;
+  font-size: 1.875em;
+  font-weight: 700;
+  padding-bottom: 0.34375rem;
+}
+.ready-content p {
+  font-family: $main-font;
+  font-size: 1.12em;
+  font-weight: 500;
+  padding-bottom: 2.9375rem;
 }

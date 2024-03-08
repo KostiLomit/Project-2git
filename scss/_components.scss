@@ -14,7 +14,20 @@
   transition: .3s;
   cursor: pointer;
   margin-bottom: 120px;
+  @media (min-width: 876px) and (max-width: 1250px) {
+    width: 19.625rem;
+  }
+  @media (max-width: 875px){
+    width: 100%;
+    margin-bottom: 50px;
+  }
 }
+@media (min-width: 876px) and (max-width: 1250px){
+  #button2 {
+    margin-bottom: 78px;
+  }
+}
+
 .main__button--el:hover{
   background: #E71414;
 
@@ -35,14 +48,28 @@
       font-family: $main-font;
       font-weight: 900;
       font-size: 1.5em;
+      @media (min-width: 876px) and (max-width: 1250px) {
+        font-size: 1.125em;
+        padding-bottom: 1rem;
+      }
+      @media (max-width: 875px){
+        font-size: 1.125rem;
+      }
     }
       .tabs__subtitle{
         font-family: $main-font;
         font-size: 1.125em;
         font-weight: normal;
         color: $font-color-gray;
+        line-height: normal;
+        @media (min-width: 876px) and (max-width: 1250px) {
+          font-size: .875rem;
+        }
+        @media (max-width: 875px){
+          font-size: .875rem;
+        }
       }
-
+      
 }
 
 /*CARD SECTION*/
@@ -51,6 +78,13 @@
   height: 21.25rem;
   width: calc(100% / 4);
   position: relative;
+  @media (min-width: 876px) and (max-width: 1250px) {
+    height: 14.375rem;
+  }
+  @media (max-width: 875px){
+    height: 9rem;
+    width: calc(100% / 2);
+  }
 }
 
 .card-img__img{
@@ -95,12 +129,24 @@
   color: $font-color-white;
   font-weight: 900;
   margin-bottom: 1.28125rem;
+  @media (min-width: 876px) and (max-width: 1250px) {
+    font-size: 1.125rem;
+  }
+  @media (max-width: 875px){
+    font-size: 1.125rem;
+  }
 }
 
 .card-img__content p{
-  font-size: 1em;
+  font-size: 1.125em;
   font-family: $main-font;
   color: $font-color-white;
+  @media (min-width: 876px) and (max-width: 1250px) {
+    font-size: 14px;
+  }
+  @media (max-width: 875px){
+    font-size: .875em;
+  }
 }
 /*PEOPLE-CARD*/
 
@@ -108,10 +154,19 @@
   display: flex;
   flex-direction: column;
   width: calc(100% - 7.5rem );
+  @media (min-width: 876px) and (max-width: 1250px) {
+    width: calc(100% - 6.25rem );
+  }
+  @media (max-width: 875px){
+    width: 100%;
+  }
 }
 .people-cards__el-img {
   width: 100%;
   height: 100%;
+  @media (max-width: 875px){
+    background-size: cover;
+  }
 }
 .people-cards-el-content {
   display: flex;
@@ -127,6 +182,15 @@
    text-align: left;
    padding-top: 1.875rem;
    padding-bottom: 0.3125rem;
+   @media (min-width: 876px) and (max-width: 1250px) {
+    font-size: 1.125em;
+    padding-left: .3125rem;
+  }
+  @media (max-width: 875px){
+    font-size: 1.125em;
+    padding-left: .3125rem;
+    padding-bottom: 0;
+  }
 }
  p.card-subtitle {
    font-family: $main-font;
@@ -135,37 +199,65 @@
    text-transform: uppercase;
    text-align: left;
    padding-bottom: 1.1125rem;
+   @media (min-width: 876px) and (max-width: 1250px) {
+    font-size: .875em;
+    padding-left: .3125rem;
+  }
+  @media (max-width: 875px){
+    font-size: .875em;
+    padding-left: .3125rem;
+    padding-bottom: 2.4875rem;
+  }
 }
  p.parraf {
   color: #6C7279;
   font-family: $main-font;
   font-size: 1.125em;
   text-align: left;
-   padding-bottom: 2.3625rem;
+  padding-bottom: 2.3625rem;
+  line-height: normal;
+   @media (min-width: 876px) and (max-width: 1250px) {
+    font-size: .875em;
+  }
+  @media (max-width: 875px){
+    font-size: .875em;
+    padding-left: .3125rem;
+  }
 }
+@media (min-width: 876px) and (max-width: 1250px) {
+.people-cards__icons svg {
+  width: 32px;
+  height: 32px;
+  }
+}
+@media (max-width: 875px){
+  .people-cards__icons svg {
+  padding-left: .3125rem;
+  }
+}
+
 .people-cards__icons {
   display: flex;
   gap: 0.3125rem;
   justify-content: flex-start;
   color: #C6CBCD;
+  transition: .3s;
 }
 
 .people-cards__icons svg:hover {
   cursor: pointer;
   transform: scale(2);
-  fill: #ff4343;
-
   transition: .3s;
 }
 .people-cards__icons svg:active {
   cursor: pointer;
   transform: scale(1.8);
-  fill: #a90d0d;
   transition: .3s;
   outline: none;
 }
 
-/*READY TOB START*/
+/*READY TO START*/
+
 
 .ready-content {
   display: flex;
@@ -173,17 +265,84 @@
   width: 100%;
   height: 100%;
   text-align: center;
+  }
 
-}
 .ready-content h3 {
   font-family: $main-font;
   font-size: 1.875em;
   font-weight: 700;
   padding-bottom: 0.34375rem;
+   @media (min-width: 876px) and (max-width: 1250px) {
+    font-size: 1.5em;
+  }
+  @media (max-width: 875px){
+    font-size: 1.125rem;
+  }
 }
 .ready-content p {
   font-family: $main-font;
   font-size: 1.12em;
   font-weight: 500;
   padding-bottom: 2.9375rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  @media (min-width: 876px) and (max-width: 1250px) {
+    font-size: .875em;
+  }
+  @media (max-width: 875px){
+    font-size: .8125rem;
+  }
+}
+/* BURGER*/ 
+.burger {
+  display: none;
+  position: relative;
+  top: 25px;
+  z-index: 50;
+  align-items: center;
+  justify-content: flex-end;
+  width: 30px;
+  height: 18px;
+  @media (max-width: 875px){
+    display: flex;
+  
+  }
+}
+
+.burger span{
+  height: 2px;
+  width: 80%;
+  transform: scale(1);
+  background-color: #FAF6F2;
+}
+
+.burger::before, .burger::after{
+  content: '';
+  position: absolute;
+  height: 2px;
+  width: 100%;
+  background-color: #FAF6F2;
+  transition: all 0.3s ease 0s;
+}
+
+.burger::before { top: 0 }
+
+.burger::after { bottom: 0 }
+
+
+/* Добавляем класс active для анимации иконки бургера */
+.burger.active span { transform: scale(0) }
+
+.burger.active::before{
+  top: 50%;
+  transform: rotate(-45deg) translate(0, -50%);
+}
+
+.burger.active::after{
+  bottom: 50%;
+  transform: rotate(45deg) translate(0, 50%);
+}
+@keyframes burgerAnimation {
+  from {opacity: 0}
+  to {opacity: 1}
 }

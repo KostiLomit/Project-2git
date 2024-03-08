@@ -1,6 +1,33 @@
 /* CONTAINERS, GRID ONLY */
 .container {
-  max-width: 75rem;
-  margin: 1.875rem auto;
-  padding: 0 0.9375rem;
+  max-width: 1200px;
+  margin: 118px auto;
+  padding: 16px 0 16px;
 }
+.container-ready {
+  max-width: 1200px;
+  margin: 118px auto;
+  padding: 16px 0 16px;
+}
+@media (max-width: 875px){
+  .container {
+    width: 100%;
+    margin: 2.5rem auto;
+  }
+}
+
+@media (max-width: 1024px) {
+  .container {
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+@media (max-width: 1024px) {
+  .container-ready {
+    margin-top: 90px;
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}  

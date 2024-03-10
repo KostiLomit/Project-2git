@@ -90,6 +90,10 @@
     display: flex;
     gap: 20px;
   }
+  .share-icons svg {
+    width: 39px;
+    height: 39px;
+  }
   @media (max-width: 875px){
     .share-icons svg {
       width: 33px;

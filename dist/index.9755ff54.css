@@ -336,6 +336,11 @@ p.parraf {
   }
 }
 
+.people-cards__icons svg {
+  width: 39px;
+  height: 39px;
+}
+
 @media (width >= 876px) and (width <= 1250px) {
   .people-cards__icons svg {
     width: 32px;
@@ -977,6 +982,11 @@ header {
 .footer .share-icons {
   gap: 20px;
   display: flex;
+}
+
+.footer .share-icons svg {
+  width: 39px;
+  height: 39px;
 }
 
 @media (width <= 875px) {

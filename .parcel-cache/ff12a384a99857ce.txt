@@ -1,4 +1,4 @@
-6974
+6975
 89D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\autofocus.js133545436485900941 0
 77D:\study\homework\FE59-onl\Project-2\node_modules\is-binary-path\package.json133545436473966163 0
 56D:\study\homework\FE59-onl\Project-2\node_modules\braces133545436478791573 1
@@ -11,7 +11,7 @@
 79D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\profiler\src\types.js133545436481409696 0
 58D:\study\homework\FE59-onl\Project-2\node_modules\svgo\lib133545436484624383 1
 88D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\dist\unpacker\browsers.js133545436488095079 0
-41D:\study\homework\FE59-onl\Project-2\dist133545513913362478 1
+41D:\study\homework\FE59-onl\Project-2\dist133545577163158311 1
 90D:\study\homework\FE59-onl\Project-2\node_modules\binary-extensions\binary-extensions.json133545436476050608 0
 59D:\study\homework\FE59-onl\Project-2\node_modules\is-number133545436477285594 1
 93D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\web-animation.js133545436501424914 0
@@ -128,7 +128,7 @@
 127D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\1-mergeAtrule.js133545436474983439 0
 57D:\study\homework\FE59-onl\Project-2\node_modules\@parcel133545436509375121 1
 97D:\study\homework\FE59-onl\Project-2\node_modules\@swc\helpers\src\_object_without_properties.mjs133545436495433262 0
-62D:\study\homework\FE59-onl\Project-2\dist\favicon.09ab7678.png133545509338283231 0
+62D:\study\homework\FE59-onl\Project-2\dist\favicon.09ab7678.png133545576133950299 0
 68D:\study\homework\FE59-onl\Project-2\node_modules\msgpackr\README.md133545436486668891 0
 89D:\study\homework\FE59-onl\Project-2\node_modules\csso\node_modules\css-tree\dist\data.js133545436491107021 0
 81D:\study\homework\FE59-onl\Project-2\node_modules\utility-types\dist\index.js.map133545436480472202 0
@@ -281,7 +281,7 @@
 81D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\regions\SC.js133545436499699573 0
 82D:\study\homework\FE59-onl\Project-2\node_modules\css-tree\cjs\tokenizer\names.cjs133545436488414228 0
 75D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\packager-wasm\lib133545436478462448 1
-62D:\study\homework\FE59-onl\Project-2\scss\sections\footer.scss133543537870000000 0
+62D:\study\homework\FE59-onl\Project-2\scss\sections\footer.scss133545574612799738 0
 79D:\study\homework\FE59-onl\Project-2\node_modules\csso\lib\clean\Declaration.js133545436487736041 0
 81D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\regions\BD.js133545436486928203 0
 91D:\study\homework\FE59-onl\Project-2\node_modules\@swc\helpers\esm\_class_name_tdz_error.js133545436489401593 0
@@ -312,7 +312,7 @@
 116D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\definition-syntax133545436490418877 1
 96D:\study\homework\FE59-onl\Project-2\node_modules\htmlnano\lib\modules\removeAttributeQuotes.mjs133545436488783263 0
 74D:\study\homework\FE59-onl\Project-2\node_modules\abortcontroller-polyfill133545436481669004 1
-58D:\study\homework\FE59-onl\Project-2\scss\_components.scss133543537870000000 0
+58D:\study\homework\FE59-onl\Project-2\scss\_components.scss133545577156275053 0
 54D:\study\homework\FE59-onl\Project-2\scss\_layout.scss133543537870000000 0
 85D:\study\homework\FE59-onl\Project-2\node_modules\msgpackr\dist\index-no-eval.cjs.map133545436484773981 0
 60D:\study\homework\FE59-onl\Project-2\node_modules\source-map133545436482247468 1
@@ -348,7 +348,7 @@
 62D:\study\homework\FE59-onl\Project-2\scss\sections\slider.scss133543537870000000 0
 90D:\study\homework\FE59-onl\Project-2\node_modules\@swc\helpers\cjs\_is_native_function.cjs133545436486499354 0
 100D:\study\homework\FE59-onl\Project-2\node_modules\dom-serializer\node_modules\entities\lib\encode.js133545436477664581 0
-54D:\study\homework\FE59-onl\Project-2\public\index.html133545509334867973 0
+54D:\study\homework\FE59-onl\Project-2\public\index.html133545576121059522 0
 82D:\study\homework\FE59-onl\Project-2\node_modules\bootstrap\dist\css\bootstrap.css133545436483982808 0
 71D:\study\homework\FE59-onl\Project-2\node_modules\lmdb\dependencies\lz4133545436481579257 1
 72D:\study\homework\FE59-onl\Project-2\node_modules\ordered-binary\LICENSE133545436473976172 0
@@ -704,7 +704,7 @@
 94D:\study\homework\FE59-onl\Project-2\node_modules\css-select\node_modules\domhandler\readme.md133545436481369829 0
 69D:\study\homework\FE59-onl\Project-2\node_modules\base-x\src\index.js133545436474245421 0
 117D:\study\homework\FE59-onl\Project-2\node_modules\@swc\helpers\_\_class_static_private_field_destructure\package.json133545436492573108 0
-56D:\study\homework\FE59-onl\Project-2\dist\4.760663d4.png133545509338003973 0
+56D:\study\homework\FE59-onl\Project-2\dist\4.760663d4.png133545576133471568 0
 122D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\import.js133545436486998012 0
 74D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\resolver-default133545436477644644 1
 54D:\study\homework\FE59-onl\Project-2\node_modules\lmdb133545436491007287 1
@@ -1100,9 +1100,9 @@
 77D:\study\homework\FE59-onl\Project-2\node_modules\source-map\lib\array-set.js133545436478681870 0
 111D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\index.d.ts133545436484893648 0
 72D:\study\homework\FE59-onl\Project-2\node_modules\nth-check\lib\parse.js133545436479599487 0
-65D:\study\homework\FE59-onl\Project-2\dist\ACTIVEBOX3.d3ef89bd.png133545437376804623 0
+65D:\study\homework\FE59-onl\Project-2\dist\ACTIVEBOX3.d3ef89bd.png133545515045128826 0
 85D:\study\homework\FE59-onl\Project-2\node_modules\update-browserslist-db\package.json133545436478811517 0
-62D:\study\homework\FE59-onl\Project-2\dist\favicon.8e18bf52.png133545437372248762 0
+62D:\study\homework\FE59-onl\Project-2\dist\favicon.8e18bf52.png133545515040341627 0
 80D:\study\homework\FE59-onl\Project-2\node_modules\type-fest\source\value-of.d.ts133545436485482067 0
 64D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\events133545436481519430 1
 81D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\regions\MN.js133545436497288286 0
@@ -1539,7 +1539,7 @@
 87D:\study\homework\FE59-onl\Project-2\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133545436483753450 0
 89D:\study\homework\FE59-onl\Project-2\node_modules\csso\node_modules\mdn-data\api\index.js133545436474873782 0
 75D:\study\homework\FE59-onl\Project-2\node_modules\svgo\dist\svgo.browser.js133545436482097873 0
-61D:\study\homework\FE59-onl\Project-2\dist\work_6.3c079c07.png133545437376804623 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_6.3c079c07.png133545515045138805 0
 81D:\study\homework\FE59-onl\Project-2\node_modules\semver\ranges\min-satisfying.js133545436483623772 0
 66D:\study\homework\FE59-onl\Project-2\node_modules\csso\lib\replace133545436488783263 1
 94D:\study\homework\FE59-onl\Project-2\node_modules\bootstrap\js\src\util\component-functions.js133545436487835773 0
@@ -2264,7 +2264,7 @@
 76D:\study\homework\FE59-onl\Project-2\node_modules\domutils\lib\querying.d.ts133545436483414334 0
 121D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\compile.d.ts.map133545436482337230 0
 62D:\study\homework\FE59-onl\Project-2\node_modules\@swc\counter133545436477305540 1
-61D:\study\homework\FE59-onl\Project-2\dist\work_3.913baf7f.png133545509338153558 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_3.913baf7f.png133545576133940315 0
 66D:\study\homework\FE59-onl\Project-2\node_modules\mdn-data\LICENSE133545436473976172 0
 105D:\study\homework\FE59-onl\Project-2\node_modules\csso\node_modules\css-tree\lib\syntax\node\Dimension.js133545436491216730 0
 68D:\study\homework\FE59-onl\Project-2\node_modules\mdn-data\README.md133545436484714122 0
@@ -2427,7 +2427,7 @@
 103D:\study\homework\FE59-onl\Project-2\node_modules\@popperjs\core\lib\dom-utils\getBoundingClientRect.js133545436488294554 0
 97D:\study\homework\FE59-onl\Project-2\node_modules\css-select\node_modules\domutils\lib\index.d.ts133545436486738712 0
 100D:\study\homework\FE59-onl\Project-2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.c133545436484584476 0
-56D:\study\homework\FE59-onl\Project-2\dist\3.4fcc0ad0.png133545509338223379 0
+56D:\study\homework\FE59-onl\Project-2\dist\3.4fcc0ad0.png133545576133970239 0
 99D:\study\homework\FE59-onl\Project-2\node_modules\csso\node_modules\css-tree\lib\tokenizer\names.js133545436492124303 0
 86D:\study\homework\FE59-onl\Project-2\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c133545436485252685 0
 90D:\study\homework\FE59-onl\Project-2\node_modules\@swc\helpers\src\_async_to_generator.mjs133545436494727364 0
@@ -2447,7 +2447,7 @@
 120D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\units.schema.json133545436484345124 0
 106D:\study\homework\FE59-onl\Project-2\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133545436482875804 0
 91D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\canvas-text.js133545436488743364 0
-66D:\study\homework\FE59-onl\Project-2\dist\background.3a44c0e1.jpeg133545509338472699 0
+66D:\study\homework\FE59-onl\Project-2\dist\background.3a44c0e1.jpeg133545576134309328 0
 70D:\study\homework\FE59-onl\Project-2\node_modules\is-json\package.json133545436473976172 0
 90D:\study\homework\FE59-onl\Project-2\node_modules\lmdb\dependencies\lz4\lib\dll\liblz4.def133545436489082444 0
 76D:\study\homework\FE59-onl\Project-2\node_modules\color-convert\package.json133545436474065963 0
@@ -2535,7 +2535,7 @@
 75D:\study\homework\FE59-onl\Project-2\node_modules\lightningcss\package.json133545436481070602 0
 112D:\study\homework\FE59-onl\Project-2\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.d.ts133545436482067940 0
 79D:\study\homework\FE59-onl\Project-2\node_modules\lightningcss\node\ast.js.flow133545436478432538 0
-61D:\study\homework\FE59-onl\Project-2\dist\work_4.8b138f7d.png133545509337974042 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_4.8b138f7d.png133545576133461597 0
 93D:\study\homework\FE59-onl\Project-2\node_modules\csso\lib\restructure\4-restructShorthand.js133545436486259987 0
 92D:\study\homework\FE59-onl\Project-2\node_modules\lightningcss\node\browserslistToTargets.js133545436479988370 0
 78D:\study\homework\FE59-onl\Project-2\node_modules\lightningcss\node\index.d.ts133545436482606513 0
@@ -2702,7 +2702,7 @@
 70D:\study\homework\FE59-onl\Project-2\node_modules\is-extglob\README.md133545436474604453 0
 102D:\study\homework\FE59-onl\Project-2\node_modules\css-select\lib\esm\pseudo-selectors\filters.d.ts.map133545436485382347 0
 82D:\study\homework\FE59-onl\Project-2\node_modules\htmlnano\lib\presets\ampSafe.mjs133545436487795884 0
-56D:\study\homework\FE59-onl\Project-2\dist\1.0e9b0a4b.png133545509338323095 0
+56D:\study\homework\FE59-onl\Project-2\dist\1.0e9b0a4b.png133545576133970239 0
 81D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\regions\TV.js133545436500876386 0
 73D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\workers\lib\web133545436485711572 1
 75D:\study\homework\FE59-onl\Project-2\node_modules\is-binary-path\index.d.ts133545436474574537 0
@@ -3134,7 +3134,7 @@
 71D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\markdown-ansi133545436478641964 1
 92D:\study\homework\FE59-onl\Project-2\node_modules\csso\node_modules\css-tree\dist\csstree.js133545436491027261 0
 80D:\study\homework\FE59-onl\Project-2\node_modules\detect-libc\lib\detect-libc.js133545436479270429 0
-61D:\study\homework\FE59-onl\Project-2\dist\work_8.a1cff042.png133545437376804623 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_8.a1cff042.png133545515045138805 0
 82D:\study\homework\FE59-onl\Project-2\node_modules\@popperjs\core\dist\esm\enums.js133545436485900941 0
 58D:\study\homework\FE59-onl\Project-2\node_modules\csso\cjs133545436485721435 1
 89D:\study\homework\FE59-onl\Project-2\node_modules\@swc\helpers\_\_instanceof\package.json133545436493231341 0
@@ -3261,7 +3261,7 @@
 87D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\utils\test\collection.test.js133545436480801333 0
 99D:\study\homework\FE59-onl\Project-2\node_modules\csso\node_modules\css-tree\lib\syntax\node\CDC.js133545436490458753 0
 92D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\imagecapture.js133545436495782322 0
-56D:\study\homework\FE59-onl\Project-2\dist\1.84f4861e.png133545437372238779 0
+56D:\study\homework\FE59-onl\Project-2\dist\1.84f4861e.png133545515040341627 0
 109D:\study\homework\FE59-onl\Project-2\node_modules\csso\node_modules\css-tree\lib\syntax\node\ClassSelector.js133545436490528578 0
 109D:\study\homework\FE59-onl\Project-2\node_modules\csso\node_modules\css-tree\cjs\syntax\node\MediaFeature.cjs133545436487815828 0
 106D:\study\homework\FE59-onl\Project-2\node_modules\csso\node_modules\css-tree\lib\syntax\node\Combinator.js133545436490588414 0
@@ -3688,7 +3688,7 @@
 77D:\study\homework\FE59-onl\Project-2\node_modules\@swc\helpers\_\_await_value133545436491884937 1
 106D:\study\homework\FE59-onl\Project-2\node_modules\@popperjs\core\lib\dom-utils\getWindowScrollBarX.js.flow133545436490149686 0
 88D:\study\homework\FE59-onl\Project-2\node_modules\css-tree\cjs\syntax\scope\selector.cjs133545436489281902 0
-60D:\study\homework\FE59-onl\Project-2\dist\green.8e5ea08d.jpg133545509338532553 0
+60D:\study\homework\FE59-onl\Project-2\dist\green.8e5ea08d.jpg133545576134379176 0
 85D:\study\homework\FE59-onl\Project-2\node_modules\css-tree\cjs\syntax\scope\value.cjs133545436490329106 0
 86D:\study\homework\FE59-onl\Project-2\node_modules\css-tree\cjs\syntax\pseudo\index.cjs133545436487486705 0
 86D:\study\homework\FE59-onl\Project-2\node_modules\css-tree\cjs\syntax\node\AnPlusB.cjs133545436477814178 0
@@ -4035,7 +4035,7 @@
 46D:\study\homework\FE59-onl\Project-2\.cache\8d133545436527251680 1
 112D:\study\homework\FE59-onl\Project-2\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.js133545436475232784 0
 102D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\page-transition-events.js133545436498031639 0
-56D:\study\homework\FE59-onl\Project-2\dist\2.88a79aef.png133545509337984101 0
+56D:\study\homework\FE59-onl\Project-2\dist\2.88a79aef.png133545576133471568 0
 107D:\study\homework\FE59-onl\Project-2\node_modules\css-select\node_modules\dom-serializer\lib\esm\index.d.ts133545436481928482 0
 105D:\study\homework\FE59-onl\Project-2\node_modules\css-select\node_modules\dom-serializer\lib\esm\index.js133545436478482388 0
 78D:\study\homework\FE59-onl\Project-2\node_modules\css-select\lib\attributes.js133545436478871463 0
@@ -4233,7 +4233,7 @@
 72D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\README.md133545436501953493 0
 86D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\transformer-svg\package.json133545436480462230 0
 87D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\dist\unpacker\feature.js133545436494537907 0
-61D:\study\homework\FE59-onl\Project-2\dist\work_2.db3caf29.png133545437376804623 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_2.db3caf29.png133545515045128826 0
 85D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\dist\unpacker\index.js133545436495852141 0
 79D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features.js133545436494567770 0
 75D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\regions133545436501933547 1
@@ -4457,7 +4457,7 @@
 74D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\fs\src\NodeFS.js133545436480721537 0
 111D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\sortAttrs.js133545436487426865 0
 83D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\aac.js133545436475113094 0
-59D:\study\homework\FE59-onl\Project-2\dist\blue.43e82690.jpg133545509338492646 0
+59D:\study\homework\FE59-onl\Project-2\dist\blue.43e82690.jpg133545576133800684 0
 100D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\alternate-stylesheet.js133545436483553969 0
 84D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\apng.js133545436484395027 0
 90D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\array-find.js133545436484704169 0
@@ -4607,7 +4607,7 @@
 96D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\transformer-js\src\esmodule-helpers.js133545436477155940 0
 97D:\study\homework\FE59-onl\Project-2\node_modules\@popperjs\core\lib\dom-utils\getScrollParent.js133545436489591080 0
 89D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\css-table.js133545436492732680 0
-61D:\study\homework\FE59-onl\Project-2\dist\work_3.ce6c64c7.png133545437372238779 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_3.ce6c64c7.png133545515040332012 0
 120D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\index.js133545436487755986 0
 96D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\css-text-justify.js133545436492802522 0
 96D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\css-text-spacing.js133545436492842394 0
@@ -4718,7 +4718,7 @@
 66D:\study\homework\FE59-onl\Project-2\node_modules\braces\README.md133545436478452473 0
 90D:\study\homework\FE59-onl\Project-2\node_modules\@swc\helpers\_\_class_private_method_get133545436492473371 1
 103D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\intersectionobserver-v2.js133545436496131379 0
-60D:\study\homework\FE59-onl\Project-2\dist\green.c14dcc85.jpg133545437372248762 0
+60D:\study\homework\FE59-onl\Project-2\dist\green.c14dcc85.jpg133545515040341627 0
 88D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\jpeg2000.js133545436496280997 0
 100D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\js-regexp-lookbehind.js133545436496310913 0
 108D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js133545436496340823 0
@@ -4731,7 +4731,7 @@
 99D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\link-rel-preconnect.js133545436496739767 0
 98D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\link-rel-prerender.js133545436496769680 0
 97D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\loading-lazy-attr.js133545436496799632 0
-61D:\study\homework\FE59-onl\Project-2\dist\work_5.02df0111.png133545437372228812 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_5.02df0111.png133545515040332012 0
 92D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\magnetometer.js133545436496909311 0
 85D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\core\test\fixtures\main-mjs133545436492293847 1
 90D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\matchmedia.js133545436496929257 0
@@ -4878,7 +4878,7 @@
 86D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\webnfc.js133545436501614404 0
 84D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\webp.js133545436501624388 0
 85D:\study\homework\FE59-onl\Project-2\node_modules\bootstrap\js\dist\base-component.js133545436486100429 0
-57D:\study\homework\FE59-onl\Project-2\dist\bg.230e71bc.png133545509338422836 0
+57D:\study\homework\FE59-onl\Project-2\dist\bg.230e71bc.png133545576134189647 0
 90D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\websockets.js133545436501634351 0
 92D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\webtransport.js133545436501644319 0
 85D:\study\homework\FE59-onl\Project-2\node_modules\caniuse-lite\data\features\webvr.js133545436501664269 0
@@ -5149,7 +5149,7 @@
 78D:\study\homework\FE59-onl\Project-2\node_modules\@swc\helpers\_\_to_primitive133545436494218760 1
 77D:\study\homework\FE59-onl\Project-2\node_modules\@swc\helpers\_\_ts_decorate133545436494268563 1
 77D:\study\homework\FE59-onl\Project-2\node_modules\@swc\helpers\_\_ts_metadata133545436494308462 1
-61D:\study\homework\FE59-onl\Project-2\dist\work_1.45360ca7.png133545509338223379 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_1.45360ca7.png133545576133960258 0
 110D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\.parcelrc133545436481629109 0
 86D:\study\homework\FE59-onl\Project-2\node_modules\@swc\helpers\_\_wrap_async_generator133545436494478006 1
 93D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js133545436477824150 0
@@ -5972,7 +5972,7 @@
 102D:\study\homework\FE59-onl\Project-2\node_modules\@babel\highlight\node_modules\color-convert\index.js133545436477734392 0
 87D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\runtime-react-refresh\LICENSE133545436474125736 0
 92D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\runtime-react-refresh\package.json133545436477844113 0
-52D:\study\homework\FE59-onl\Project-2\dist\index.html133545509336787225 0
+52D:\study\homework\FE59-onl\Project-2\dist\index.html133545576134229536 0
 115D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist\package.json133545436492184153 0
 106D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133545436474813925 0
 72D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\runtime-js\lib133545436484714122 1
@@ -6241,6 +6241,7 @@
 80D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\core\lib\buildCache.js133545436485252685 0
 123D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\selector.js133545436489451450 0
 120D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\value.js133545436490378983 0
+60D:\study\homework\FE59-onl\Project-2\dist\index.fc43de87.css133545515055020215 0
 119D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\has.js133545436486798546 0
 123D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\matches.js133545436488274643 0
 119D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\not.js133545436488603716 0
@@ -6272,7 +6273,7 @@
 126D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\TypeSelector.js133545436489870351 0
 126D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133545436490149686 0
 117D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Url.js133545436490289206 0
-60D:\study\homework\FE59-onl\Project-2\dist\public.0ba7c674.js133545509338253289 0
+60D:\study\homework\FE59-onl\Project-2\dist\public.0ba7c674.js133545576134299351 0
 119D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Value.js133545436490329106 0
 124D:\study\homework\FE59-onl\Project-2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133545436490468728 0
 96D:\study\homework\FE59-onl\Project-2\node_modules\@babel\code-frame\node_modules\chalk\readme.md133545436478522293 0
@@ -6820,35 +6821,35 @@
 59D:\study\homework\FE59-onl\Project-2\node_modules\.bin\svgo133545436502432256 0
 63D:\study\homework\FE59-onl\Project-2\node_modules\.bin\svgo.cmd133545436502432256 0
 63D:\study\homework\FE59-onl\Project-2\node_modules\.bin\svgo.ps1133545436502432256 0
-56D:\study\homework\FE59-onl\Project-2\dist\2.ec467187.png133545437376804623 0
+56D:\study\homework\FE59-onl\Project-2\dist\2.ec467187.png133545515045138805 0
 56D:\study\homework\FE59-onl\Project-2\dist\3.687c067d.png133545436528219098 0
-56D:\study\homework\FE59-onl\Project-2\dist\3.ebc05421.png133545437372238779 0
-56D:\study\homework\FE59-onl\Project-2\dist\4.2fdc22c0.png133545437376804623 0
-65D:\study\homework\FE59-onl\Project-2\dist\ACTIVEBOX3.897fe7c6.png133545509337934214 0
+56D:\study\homework\FE59-onl\Project-2\dist\3.ebc05421.png133545515040341627 0
+56D:\study\homework\FE59-onl\Project-2\dist\4.2fdc22c0.png133545515045138805 0
+65D:\study\homework\FE59-onl\Project-2\dist\ACTIVEBOX3.897fe7c6.png133545576133431678 0
 74D:\study\homework\FE59-onl\Project-2\dist\background.3a44c0e1.jpeg.8472.12133543537870000000 0
-66D:\study\homework\FE59-onl\Project-2\dist\background.886605a9.jpeg133545437376824557 0
+66D:\study\homework\FE59-onl\Project-2\dist\background.886605a9.jpeg133545515045148785 0
 66D:\study\homework\FE59-onl\Project-2\dist\bg.230e71bc.png.16460.14133543537870000000 0
-57D:\study\homework\FE59-onl\Project-2\dist\bg.40dee35b.png133545437372248762 0
+57D:\study\homework\FE59-onl\Project-2\dist\bg.40dee35b.png133545515040341627 0
 57D:\study\homework\FE59-onl\Project-2\dist\bg.7d98145d.png133545436528229111 0
-59D:\study\homework\FE59-onl\Project-2\dist\blue.16492a48.jpg133545437376814586 0
+59D:\study\homework\FE59-onl\Project-2\dist\blue.16492a48.jpg133545515045148785 0
 59D:\study\homework\FE59-onl\Project-2\dist\blue.692c7d8e.jpg133545436528239041 0
-60D:\study\homework\FE59-onl\Project-2\dist\index.9755ff54.css133545513913272538 0
-64D:\study\homework\FE59-onl\Project-2\dist\index.9755ff54.css.map133545513913352652 0
-76D:\study\homework\FE59-onl\Project-2\dist\padme-amidala-741x490.459ad7d4.jpg133545509338153558 0
+60D:\study\homework\FE59-onl\Project-2\dist\index.9755ff54.css133545577163103559 0
+64D:\study\homework\FE59-onl\Project-2\dist\index.9755ff54.css.map133545577163148304 0
+76D:\study\homework\FE59-onl\Project-2\dist\padme-amidala-741x490.459ad7d4.jpg133545576133571329 0
 46D:\study\homework\FE59-onl\Project-2\.cache\60133545436427404394 1
-76D:\study\homework\FE59-onl\Project-2\dist\padme-amidala-741x490.6c498f62.jpg133545437376814586 0
-64D:\study\homework\FE59-onl\Project-2\dist\public.0ba7c674.js.map133545509338382940 0
+76D:\study\homework\FE59-onl\Project-2\dist\padme-amidala-741x490.6c498f62.jpg133545515045138805 0
+64D:\study\homework\FE59-onl\Project-2\dist\public.0ba7c674.js.map133545576134339241 0
 73D:\study\homework\FE59-onl\Project-2\dist\public.0ba7c674.js.map.16460.18133543537870000000 0
-61D:\study\homework\FE59-onl\Project-2\dist\work_1.6f425368.png133545437372238779 0
-61D:\study\homework\FE59-onl\Project-2\dist\work_2.a10452eb.png133545509338003973 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_1.6f425368.png133545515040332012 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_2.a10452eb.png133545576133491521 0
 61D:\study\homework\FE59-onl\Project-2\dist\work_3.e9f75a4e.png133545436528209123 0
-61D:\study\homework\FE59-onl\Project-2\dist\work_4.3bcaf08b.png133545437376804623 0
-61D:\study\homework\FE59-onl\Project-2\dist\work_5.a044f268.png133545509338353020 0
-61D:\study\homework\FE59-onl\Project-2\dist\work_6.616474a2.png133545509337984101 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_4.3bcaf08b.png133545515045118854 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_5.a044f268.png133545576133980214 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_6.616474a2.png133545576133451620 0
 61D:\study\homework\FE59-onl\Project-2\dist\work_6.88061705.png133545436528209123 0
-61D:\study\homework\FE59-onl\Project-2\dist\work_7.5261e17c.png133545437372238779 0
-61D:\study\homework\FE59-onl\Project-2\dist\work_7.d93a79bf.png133545509338253289 0
-61D:\study\homework\FE59-onl\Project-2\dist\work_8.3ada37a1.png133545509338043876 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_7.5261e17c.png133545515040332012 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_7.d93a79bf.png133545576133990202 0
+61D:\study\homework\FE59-onl\Project-2\dist\work_8.3ada37a1.png133545576133501494 0
 61D:\study\homework\FE59-onl\Project-2\dist\work_8.5e640893.png133545436528219098 0
 60D:\study\homework\FE59-onl\Project-2\dist\_main.08fce52b.css133545436528149283 0
 54D:\study\homework\FE59-onl\Project-2\.idea\modules.xml133543537870000000 0

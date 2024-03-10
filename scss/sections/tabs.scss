@@ -9,6 +9,10 @@
     flex-direction: column;
   }
 }
+.tabs__up--el svg {
+    width: 100px;
+    height: 100px;
+}
 @media (min-width: 876px) and (max-width: 1250px) {
   .tabs__up--el svg {
     width: 85px;

@@ -738,6 +738,7 @@ header {
 
 @media (width <= 875px) {
   .main h1 {
+    padding-top: 4.375rem;
     font-size: 36px;
   }
 }
@@ -786,6 +787,11 @@ header {
   .tabs__up, .tabs__down {
     flex-direction: column;
   }
+}
+
+.tabs__up--el svg {
+  width: 100px;
+  height: 100px;
 }
 
 @media (width >= 876px) and (width <= 1250px) {

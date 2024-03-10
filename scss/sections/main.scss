@@ -11,6 +11,8 @@
   
   }
 
+  
+
   h1 {
     width: 100%;
     font-family: $main-font;
@@ -23,9 +25,11 @@
     @media (min-width: 876px) and (max-width: 1250px) {
       font-size: 3em;
       line-height: normal;
+      
     }
     @media (max-width: 875px){
       font-size: 36px;
+      padding-top: 4.375rem;
     }
   }
   h3 {

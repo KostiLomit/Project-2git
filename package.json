@@ -3,10 +3,15 @@
   "version": "1.0.0",
   "scripts": {
     "start": "parcel public/index.html --open",
-    "build": "parcel build public/index.html"
+    "build": "parcel build public/index.html",
+    "pro": "parcel build public/index.html --no-source-maps --no-cache --public-url ."
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.11.0",
-    "parcel": "^2.11.0"
+    "parcel": "^2.11.0",
+    "sass": "^1.71.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
   }
 }

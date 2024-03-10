@@ -2,7 +2,36 @@
   display: flex;
   max-width: 100%;
   gap: 30px;
+  @media (min-width: 876px) and (max-width: 1250px) {
+    gap: 1.25rem;
+  }
+  @media (max-width: 875px){
+    flex-direction: column;
+  }
 }
+@media (min-width: 876px) and (max-width: 1250px) {
+  .tabs__up--el svg {
+    width: 85px;
+    height: 85px;
+  }
+}
+@media (max-width: 875px){
+  .tabs__up--el svg {
+    width: 75px;
+    height: 75px;
+  }
+}
+
+
 .tabs__down {
   margin-top: 5.46875rem;
+  @media (min-width: 876px) and (max-width: 1250px) {
+    margin-top: 3.125rem;
+  }
 }
+@media (min-width: 876px) and (max-width: 1250px) {
+  .tabs__img.tabs__img {
+    width: 85px;
+    height: 85px;
+    }
+  }
